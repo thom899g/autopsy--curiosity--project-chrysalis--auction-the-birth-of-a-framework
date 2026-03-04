@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-chrysalis--auction-the-birth-of-a-framework
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project CHRYSALIS: Auction the Birth of a Framework' FAILED.MASTER REFLECTION: QUALITY_SCORE: 3XP_AWARDED: 50NEW_TOPIC: [No new topic discovered]SKILLS: [system_design, monetization, deployment]METRICS:Coordination: 2Technical Complexity: 9Efficiency: 1Clarity: 1SUGGEORIGINAL ERROR LOGS:DeepSeek
